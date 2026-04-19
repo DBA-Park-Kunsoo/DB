@@ -6,3 +6,5 @@ SHOW DATABASES;
 
 SELECT *
 FROM information_schema.schemata;
+
+CREATE SCHEMA jobs_mart.staging;
